@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/steAz/SkiLiftsApp/issues"
   },
-  "homepage": "https://github.com/steAz/SkiLiftsApp#readme"
+  "homepage": "https://github.com/steAz/SkiLiftsApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
