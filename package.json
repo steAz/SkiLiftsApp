@@ -1,0 +1,19 @@
+{
+  "name": "skiliftsapp",
+  "version": "1.0.0",
+  "description": "App where users can top up the card for number of ski runs for various ski lifts in a given resort.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steAz/SkiLiftsApp.git"
+  },
+  "author": "steAz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steAz/SkiLiftsApp/issues"
+  },
+  "homepage": "https://github.com/steAz/SkiLiftsApp#readme"
+}
